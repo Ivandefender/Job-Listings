@@ -36,3 +36,6 @@
 ### Дизайн був взятий з [FrontendMentor.io](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt);
 
 ### Розробив: [Ivan Krysak (github: Ivandefender)](https://github.com/Ivandefender);
+
+
+
