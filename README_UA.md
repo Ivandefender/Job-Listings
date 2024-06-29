@@ -1,7 +1,7 @@
 <h1 align="center">Job Listings</h1>
 
 <div align="center">
-    <a href="https://ivandefender.github.io/QuizApp/">View Project |</a>
+    <a href="[https://ivandefender.github.io/QuizApp/](https://ivandefender.github.io/Job-Listings/)">View Project |</a>
     <a href="https://github.com/Ivandefender/QuizApp/tree/main/js">View Code</a>
 </div>
 
